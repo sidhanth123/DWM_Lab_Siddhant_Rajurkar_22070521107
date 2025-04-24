@@ -3,12 +3,12 @@ Here's a refined and more professional version of your Data Mining Lab Portfolio
 ---
 
 # 🔍 Data Mining Portfolio  
-**Sparsh Maske**  
+**Siddhant Rajurkar**  
 *Symbiosis Institute of Technology*    
 ---
 
 ## 📌 Professional Profile  
-**PRN:** 22070521119  
+**PRN:** 22070521107  
 **Expertise:** Data Preprocessing, Predictive Modeling, Pattern Discovery  
 **Technical Stack:** Python, Weka, SQL, PySpark, Scikit-learn  
 
